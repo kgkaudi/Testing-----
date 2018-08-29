@@ -1,0 +1,31 @@
+﻿<Window x:Class="Testing_____.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Testing_____"
+        mc:Ignorable="d"
+        Title="Calculator" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="151*"/>
+            <ColumnDefinition Width="642*"/>
+        </Grid.ColumnDefinitions>
+        <TextBox x:Name="number1" HorizontalAlignment="Left" Height="56" Margin="10,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="131"/>
+        <TextBox x:Name="number2" HorizontalAlignment="Left" Height="56" Margin="10,87,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="131"/>
+        <TextBox x:Name="Result" HorizontalAlignment="Left" Height="57" Margin="10,164,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="131"/>
+        <Button x:Name="addition" Content="+" Grid.Column="1" HorizontalAlignment="Left" Margin="9.8,10,0,0" VerticalAlignment="Top" Width="157" Height="57" Click="addition_Click"/>
+        <Button x:Name="Subtraction" Content="-" Grid.Column="1" HorizontalAlignment="Left" Margin="9.8,87,0,0" VerticalAlignment="Top" Width="157" Height="56" Click="Subtraction_Click"/>
+        <Button x:Name="Multiplication" Content="*" Grid.Column="1" HorizontalAlignment="Left" Margin="9.8,164,0,0" VerticalAlignment="Top" Width="157" Height="57" Click="Multiplication_Click"/>
+        <Button x:Name="Division" Content="/" Grid.Column="1" HorizontalAlignment="Left" Margin="182.8,11,0,0" VerticalAlignment="Top" Width="157" Height="57" Click="Division_Click"/>
+        <Button x:Name="Remainer" Content="%" Grid.Column="1" HorizontalAlignment="Left" Margin="182.8,87,0,0" VerticalAlignment="Top" Width="157" Height="56" Click="Remainer_Click"/>
+        <Button x:Name="Sin" Content="Sin" Grid.Column="1" HorizontalAlignment="Left" Margin="182.8,164,0,0" VerticalAlignment="Top" Width="157" Height="57" Click="Sin_Click"/>
+        <Button x:Name="Cos" Content="Cos" Grid.Column="1" HorizontalAlignment="Left" Margin="355.8,11,0,0" VerticalAlignment="Top" Width="157" Height="57" Click="Cos_Click"/>
+        <Button x:Name="Power2" Content="POW" Grid.Column="1" HorizontalAlignment="Left" Margin="355.8,87,0,0" VerticalAlignment="Top" Width="157" Height="56" Click="Power2_Click"/>
+        <Button x:Name="RootSquare" Content="ROOT" Grid.Column="1" HorizontalAlignment="Left" Margin="355.8,164,0,0" VerticalAlignment="Top" Width="157" Height="57" Click="RootSquare_Click"/>
+        <Button x:Name="Clear" Content="Clear" Grid.Column="1" HorizontalAlignment="Left" Margin="534.8,11,0,0" VerticalAlignment="Top" Width="98" Height="55" Click="Clear_Click"/>
+        <Button x:Name="Absolute" Content="ABS" Grid.Column="1" HorizontalAlignment="Left" Margin="534.8,87,0,0" VerticalAlignment="Top" Width="98" Height="56" Click="Absolute_Click"/>
+        <Button x:Name="Exit" Content="EXIT" Grid.Column="1" HorizontalAlignment="Left" Margin="534.8,164,0,0" VerticalAlignment="Top" Width="98" Height="57" Click="Exit_Click"/>
+
+    </Grid>
+</Window>

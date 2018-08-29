@@ -1,0 +1,15 @@
+c:\users\konstantinos\source\repos\Testing!!!!!\Testing!!!!!\bin\Debug\Testing!!!!!.exe.config
+c:\users\konstantinos\source\repos\Testing!!!!!\Testing!!!!!\bin\Debug\Testing!!!!!.exe
+c:\users\konstantinos\source\repos\Testing!!!!!\Testing!!!!!\bin\Debug\Testing!!!!!.pdb
+c:\users\konstantinos\source\repos\Testing!!!!!\Testing!!!!!\obj\Debug\Testing!!!!!.csprojAssemblyReference.cache
+c:\users\konstantinos\source\repos\Testing!!!!!\Testing!!!!!\obj\Debug\MainWindow.g.cs
+c:\users\konstantinos\source\repos\Testing!!!!!\Testing!!!!!\obj\Debug\App.g.cs
+c:\users\konstantinos\source\repos\Testing!!!!!\Testing!!!!!\obj\Debug\Testing!!!!!_MarkupCompile.cache
+c:\users\konstantinos\source\repos\Testing!!!!!\Testing!!!!!\obj\Debug\Testing!!!!!_MarkupCompile.lref
+c:\users\konstantinos\source\repos\Testing!!!!!\Testing!!!!!\obj\Debug\MainWindow.baml
+c:\users\konstantinos\source\repos\Testing!!!!!\Testing!!!!!\obj\Debug\Testing!!!!!.g.resources
+c:\users\konstantinos\source\repos\Testing!!!!!\Testing!!!!!\obj\Debug\Testing_____.Properties.Resources.resources
+c:\users\konstantinos\source\repos\Testing!!!!!\Testing!!!!!\obj\Debug\Testing!!!!!.csproj.GenerateResource.cache
+c:\users\konstantinos\source\repos\Testing!!!!!\Testing!!!!!\obj\Debug\Testing!!!!!.csproj.CoreCompileInputs.cache
+c:\users\konstantinos\source\repos\Testing!!!!!\Testing!!!!!\obj\Debug\Testing!!!!!.exe
+c:\users\konstantinos\source\repos\Testing!!!!!\Testing!!!!!\obj\Debug\Testing!!!!!.pdb
